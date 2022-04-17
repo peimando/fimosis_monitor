@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Fredrikson
     url: https://www.fredrikson.com.ar
-  - name: Pelado Nerd
-    url: https://www.peladonerd.com
+  - name: Earendel
+    url: https://peimando.github.io/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
