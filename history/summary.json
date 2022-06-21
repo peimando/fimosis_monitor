@@ -22,7 +22,7 @@
     "url": "https://www.fredrikson.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.fredrikson.com.ar",
     "slug": "fredrikson",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 348,
     "timeMonth": 385,
     "timeYear": 382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Earendel",
