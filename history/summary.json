@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 126,
-    "timeWeek": 97,
+    "timeDay": 57,
+    "timeWeek": 96,
     "timeMonth": 118,
     "timeYear": 93,
     "dailyMinutesDown": {}
@@ -20,7 +20,7 @@
   {
     "name": "Fredrikson",
     "url": "https://www.fredrikson.com.ar",
-    "icon": "https://favicons.githubusercontent.com/www.fredrikson.com.ar",
+    "icon": "https://icons.duckduckgo.com/ip3/www.fredrikson.com.ar.ico",
     "slug": "fredrikson",
     "status": "up",
     "uptime": "99.98%",
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 374,
-    "timeDay": 546,
-    "timeWeek": 321,
+    "timeDay": 280,
+    "timeWeek": 320,
     "timeMonth": 317,
     "timeYear": 374,
     "dailyMinutesDown": {
@@ -40,7 +40,7 @@
   {
     "name": "Earendel",
     "url": "https://peimando.github.io/",
-    "icon": "https://favicons.githubusercontent.com/peimando.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/peimando.github.io.ico",
     "slug": "earendel",
     "status": "up",
     "uptime": "99.99%",
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 128,
-    "timeWeek": 93,
-    "timeMonth": 102,
+    "timeDay": 40,
+    "timeWeek": 90,
+    "timeMonth": 99,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2022-04-17": 24
@@ -60,7 +60,7 @@
   {
     "name": "Test Broken Site",
     "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
     "uptime": "100.00%",
