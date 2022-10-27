@@ -24,7 +24,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://peimando.github.io)
+[**Visit our status website →**](https://peimando.github.io/fimosis_monitor)
 
 ## 📄 License
 
