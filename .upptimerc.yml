@@ -5,8 +5,8 @@ repo: fimosis_monitor # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Fredrikson
-    url: https://www.fredrikson.com.ar
+  - name: AVIS LATAM
+    url: https://www.sscoquimbo.avislatam.com
   - name: Earendel
     url: https://peimando.github.io/
   - name: Test Broken Site
