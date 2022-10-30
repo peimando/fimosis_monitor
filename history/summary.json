@@ -22,9 +22,9 @@
     "url": "https://sscoquimbo.avislatam.com/modulos/login/index.cfm",
     "icon": "https://icons.duckduckgo.com/ip3/sscoquimbo.avislatam.com.ico",
     "slug": "avis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 2997,
     "timeMonth": 2997,
     "timeYear": 2997,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-30": 0
+    }
   },
   {
     "name": "AVIS C",
