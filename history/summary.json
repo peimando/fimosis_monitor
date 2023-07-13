@@ -108,18 +108,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mercadopublico.cl.ico",
     "slug": "api-mercado-publico",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.66%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "99.01%",
+    "uptime": "99.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "96.77%",
+    "uptimeYear": "99.00%",
     "time": 6509,
     "timeDay": 973,
     "timeWeek": 4367,
     "timeMonth": 12828,
     "timeYear": 6509,
     "dailyMinutesDown": {
-      "2023-07-12": 12,
       "2023-07-09": 23,
       "2023-07-03": 71,
       "2023-07-02": 64,
@@ -160,7 +159,8 @@
       "2023-05-12": 34,
       "2023-05-11": 36,
       "2023-05-10": 47,
-      "2023-05-09": 209
+      "2023-05-09": 209,
+      "2023-05-08": 22
     }
   },
   {
