@@ -31,7 +31,7 @@
     "time": 1603,
     "timeDay": 508,
     "timeWeek": 557,
-    "timeMonth": 574,
+    "timeMonth": 571,
     "timeYear": 1603,
     "dailyMinutesDown": {
       "2023-06-28": 20,
@@ -109,17 +109,16 @@
     "slug": "api-mercado-publico",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "95.99%",
-    "uptimeMonth": "97.25%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "97.30%",
     "uptimeYear": "99.09%",
     "time": 6840,
     "timeDay": 22833,
     "timeWeek": 10139,
-    "timeMonth": 12046,
+    "timeMonth": 11935,
     "timeYear": 6840,
     "dailyMinutesDown": {
-      "2023-07-29": 12,
       "2023-07-28": 38,
       "2023-07-27": 46,
       "2023-07-26": 80,
@@ -161,7 +160,7 @@
       "2023-05-27": 70,
       "2023-05-26": 80,
       "2023-05-25": 50,
-      "2023-05-24": 22
+      "2023-05-24": 51
     }
   },
   {
@@ -178,7 +177,7 @@
     "time": 107,
     "timeDay": 40,
     "timeWeek": 106,
-    "timeMonth": 98,
+    "timeMonth": 97,
     "timeYear": 107,
     "dailyMinutesDown": {}
   },
