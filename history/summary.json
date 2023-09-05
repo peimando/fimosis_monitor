@@ -77,9 +77,9 @@
     "url": "https://csscoquimbo.avislatam.com/modulos/login/index.cfm",
     "icon": "https://icons.duckduckgo.com/ip3/csscoquimbo.avislatam.com.ico",
     "slug": "avis-c",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.75%",
@@ -89,6 +89,7 @@
     "timeMonth": 2753,
     "timeYear": 1689,
     "dailyMinutesDown": {
+      "2023-09-05": 0,
       "2023-08-29": 24,
       "2023-08-21": 23,
       "2023-05-31": 31,
@@ -124,7 +125,7 @@
     "time": 6958,
     "timeDay": 3814,
     "timeWeek": 6917,
-    "timeMonth": 5524,
+    "timeMonth": 5481,
     "timeYear": 6958,
     "dailyMinutesDown": {
       "2023-09-04": 40,
