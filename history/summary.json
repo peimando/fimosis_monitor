@@ -116,18 +116,19 @@
     "url": "https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?fecha=30122022&CodigoOrganismo=7312&ticket=E1951384-BF88-4EE5-8C33-934680281626",
     "icon": "https://icons.duckduckgo.com/ip3/api.mercadopublico.cl.ico",
     "slug": "api-mercado-publico",
-    "status": "up",
-    "uptime": "93.05%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.53%",
+    "status": "down",
+    "uptime": "93.07%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "93.52%",
     "uptimeMonth": "85.14%",
-    "uptimeYear": "93.05%",
-    "time": 6988,
-    "timeDay": 598,
-    "timeWeek": 17247,
-    "timeMonth": 7874,
-    "timeYear": 6988,
+    "uptimeYear": "93.07%",
+    "time": 6983,
+    "timeDay": 539,
+    "timeWeek": 16768,
+    "timeMonth": 7788,
+    "timeYear": 6983,
     "dailyMinutesDown": {
+      "2023-11-03": 0,
       "2023-10-31": 26,
       "2023-10-30": 19,
       "2023-10-29": 106,
@@ -196,7 +197,7 @@
       "2023-07-13": 20,
       "2023-07-09": 23,
       "2023-07-03": 71,
-      "2023-07-02": 64
+      "2023-07-02": 47
     }
   },
   {
