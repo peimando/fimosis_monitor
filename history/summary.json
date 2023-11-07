@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sscoquimbo.avislatam.com.ico",
     "slug": "avis",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -116,16 +116,16 @@
     "url": "https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?fecha=30122022&CodigoOrganismo=7312&ticket=E1951384-BF88-4EE5-8C33-934680281626",
     "icon": "https://icons.duckduckgo.com/ip3/api.mercadopublico.cl.ico",
     "slug": "api-mercado-publico",
-    "status": "up",
-    "uptime": "93.11%",
-    "uptimeDay": "94.00%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "84.25%",
-    "uptimeYear": "93.11%",
+    "status": "down",
+    "uptime": "93.12%",
+    "uptimeDay": "93.99%",
+    "uptimeWeek": "95.87%",
+    "uptimeMonth": "84.29%",
+    "uptimeYear": "93.12%",
     "time": 7039,
     "timeDay": 759,
     "timeWeek": 7922,
-    "timeMonth": 8502,
+    "timeMonth": 8643,
     "timeYear": 7039,
     "dailyMinutesDown": {
       "2023-11-07": 65,
@@ -195,7 +195,7 @@
       "2023-07-21": 33,
       "2023-07-20": 18,
       "2023-07-19": 42,
-      "2023-07-18": 42
+      "2023-07-18": 21
     }
   },
   {
