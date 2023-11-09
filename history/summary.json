@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 322,
-    "timeWeek": 156,
+    "timeDay": 79,
+    "timeWeek": 157,
     "timeMonth": 127,
     "timeYear": 103,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.54%",
-    "time": 1542,
-    "timeDay": 591,
-    "timeWeek": 555,
-    "timeMonth": 606,
-    "timeYear": 1521,
+    "time": 1540,
+    "timeDay": 558,
+    "timeWeek": 560,
+    "timeMonth": 607,
+    "timeYear": 1513,
     "dailyMinutesDown": {
       "2023-08-27": 16,
       "2023-08-18": 19,
@@ -67,8 +67,7 @@
       "2023-01-05": 132,
       "2022-12-05": 20,
       "2022-11-28": 25,
-      "2022-11-25": 34,
-      "2022-11-09": 185
+      "2022-11-25": 34
     }
   },
   {
@@ -82,10 +81,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1536,
-    "timeDay": 604,
-    "timeWeek": 580,
-    "timeMonth": 605,
+    "time": 1535,
+    "timeDay": 748,
+    "timeWeek": 587,
+    "timeMonth": 611,
     "timeYear": 1537,
     "dailyMinutesDown": {
       "2023-09-08": 15,
@@ -107,8 +106,7 @@
       "2023-02-02": 30,
       "2022-12-29": 18,
       "2022-11-25": 29,
-      "2022-11-24": 38,
-      "2022-11-09": 132
+      "2022-11-24": 38
     }
   },
   {
@@ -117,16 +115,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mercadopublico.cl.ico",
     "slug": "api-mercado-publico",
     "status": "up",
-    "uptime": "93.04%",
-    "uptimeDay": "63.67%",
+    "uptime": "93.06%",
+    "uptimeDay": "98.59%",
     "uptimeWeek": "90.94%",
     "uptimeMonth": "83.09%",
-    "uptimeYear": "93.04%",
-    "time": 7052,
-    "timeDay": 9439,
-    "timeWeek": 8926,
-    "timeMonth": 8759,
-    "timeYear": 7052,
+    "uptimeYear": "93.06%",
+    "time": 7047,
+    "timeDay": 824,
+    "timeWeek": 8941,
+    "timeMonth": 8755,
+    "timeYear": 7047,
     "dailyMinutesDown": {
       "2023-11-08": 20,
       "2023-11-07": 568,
@@ -208,9 +206,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 113,
+    "timeDay": 41,
     "timeWeek": 82,
-    "timeMonth": 91,
+    "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {}
   },
