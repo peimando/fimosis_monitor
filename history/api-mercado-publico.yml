@@ -1,7 +1,7 @@
 url: https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?fecha=30122022&CodigoOrganismo=7312&ticket=E1951384-BF88-4EE5-8C33-934680281626
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-11T20:33:50.595Z
+status: up
+code: 200
+responseTime: 26246
+lastUpdated: 2023-11-11T20:55:17.507Z
 startTime: 2023-01-03T13:41:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
