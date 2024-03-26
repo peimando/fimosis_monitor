@@ -35,7 +35,7 @@
     "timeDay": 616,
     "timeWeek": 642,
     "timeMonth": 625,
-    "timeYear": 1425,
+    "timeYear": 1427,
     "dailyMinutesDown": {
       "2024-03-14": 16,
       "2024-03-01": 96,
@@ -73,7 +73,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/csscoquimbo.avislatam.com.ico",
     "slug": "avis-c",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
@@ -113,17 +113,17 @@
     "url": "https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?fecha=30122022&CodigoOrganismo=7312&ticket=E1951384-BF88-4EE5-8C33-934680281626",
     "icon": "https://icons.duckduckgo.com/ip3/api.mercadopublico.cl.ico",
     "slug": "api-mercado-publico",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "96.73%",
+    "uptimeDay": "98.05%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "97.76%",
-    "uptimeYear": "99.04%",
-    "time": 6444,
-    "timeDay": 864,
-    "timeWeek": 675,
+    "uptimeYear": "99.05%",
+    "time": 6442,
+    "timeDay": 889,
+    "timeWeek": 691,
     "timeMonth": 736,
-    "timeYear": 6646,
+    "timeYear": 6642,
     "dailyMinutesDown": {
       "2024-03-26": 28,
       "2024-03-25": 19,
@@ -177,8 +177,7 @@
       "2024-01-02": 20,
       "2023-12-31": 21,
       "2023-12-29": 92,
-      "2023-12-28": 2,
-      "2023-12-27": 16
+      "2023-12-28": 2
     }
   },
   {
