@@ -35,7 +35,7 @@
     "timeDay": 812,
     "timeWeek": 1325,
     "timeMonth": 804,
-    "timeYear": 1275,
+    "timeYear": 1268,
     "dailyMinutesDown": {
       "2024-04-08": 21,
       "2024-03-14": 16,
@@ -103,17 +103,17 @@
     "url": "https://api.mercadopublico.cl/servicios/v1/publico/ordenesdecompra.json?fecha=30122022&CodigoOrganismo=7312&ticket=E1951384-BF88-4EE5-8C33-934680281626",
     "icon": "https://icons.duckduckgo.com/ip3/api.mercadopublico.cl.ico",
     "slug": "api-mercado-publico",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "93.05%",
+    "status": "down",
+    "uptime": "99.26%",
+    "uptimeDay": "93.03%",
     "uptimeWeek": "95.31%",
-    "uptimeMonth": "91.51%",
-    "uptimeYear": "99.04%",
-    "time": 6015,
-    "timeDay": 775,
-    "timeWeek": 1773,
+    "uptimeMonth": "91.54%",
+    "uptimeYear": "99.06%",
+    "time": 6012,
+    "timeDay": 748,
+    "timeWeek": 1752,
     "timeMonth": 1216,
-    "timeYear": 6114,
+    "timeYear": 6110,
     "dailyMinutesDown": {
       "2024-04-11": 82,
       "2024-04-10": 57,
@@ -150,9 +150,7 @@
       "2024-02-24": 527,
       "2024-02-23": 81,
       "2024-02-22": 47,
-      "2024-02-21": 20,
-      "2024-02-20": 76,
-      "2024-02-19": 1
+      "2024-02-21": 20
     }
   },
   {
