@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 100,
-    "timeDay": 149,
-    "timeWeek": 114,
-    "timeMonth": 113,
+    "timeDay": 182,
+    "timeWeek": 130,
+    "timeMonth": 116,
     "timeYear": 99,
     "dailyMinutesDown": {
       "2023-09-18": 20,
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.80%",
     "time": 1389,
-    "timeDay": 567,
+    "timeDay": 574,
     "timeWeek": 615,
-    "timeMonth": 781,
+    "timeMonth": 780,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2024-04-19": 136,
@@ -56,8 +56,7 @@
       "2023-05-20": 18,
       "2023-05-19": 16,
       "2023-05-18": 135,
-      "2023-04-29": 17,
-      "2023-04-27": 103
+      "2023-04-29": 17
     }
   },
   {
@@ -72,9 +71,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.87%",
     "time": 1450,
-    "timeDay": 512,
+    "timeDay": 572,
     "timeWeek": 1114,
-    "timeMonth": 1182,
+    "timeMonth": 1180,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2024-04-19": 31,
@@ -92,8 +91,7 @@
       "2023-08-21": 23,
       "2023-05-31": 31,
       "2023-05-21": 19,
-      "2023-05-18": 18,
-      "2023-04-27": 55
+      "2023-05-18": 18
     }
   },
   {
@@ -103,14 +101,14 @@
     "slug": "api-mercado-publico",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "94.11%",
+    "uptimeDay": "96.77%",
+    "uptimeWeek": "94.69%",
     "uptimeMonth": "80.09%",
     "uptimeYear": "98.28%",
-    "time": 5890,
-    "timeDay": 1004,
-    "timeWeek": 2175,
-    "timeMonth": 2299,
+    "time": 5888,
+    "timeDay": 1012,
+    "timeWeek": 2185,
+    "timeMonth": 2297,
     "timeYear": 6082,
     "dailyMinutesDown": {
       "2024-04-25": 46,
@@ -161,9 +159,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 37,
-    "timeWeek": 78,
-    "timeMonth": 71,
+    "timeDay": 39,
+    "timeWeek": 80,
+    "timeMonth": 70,
     "timeYear": 79,
     "dailyMinutesDown": {}
   },
