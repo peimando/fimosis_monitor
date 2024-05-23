@@ -1,7 +1,7 @@
 url: https://sscoquimbo.avislatam.com/modulos/login/index.cfm
-status: up
-code: 200
-responseTime: 506
-lastUpdated: 2024-05-23T12:45:30.370Z
+status: down
+code: 503
+responseTime: 658
+lastUpdated: 2024-05-23T18:31:06.797Z
 startTime: 2022-10-27T12:40:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
