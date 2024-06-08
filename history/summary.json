@@ -97,17 +97,17 @@
     "slug": "api-mercado-publico",
     "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "97.64%",
-    "uptimeWeek": "96.41%",
-    "uptimeMonth": "97.06%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "97.08%",
     "uptimeYear": "98.66%",
     "time": 5344,
     "timeDay": 2450,
-    "timeWeek": 2229,
+    "timeWeek": 2247,
     "timeMonth": 1673,
-    "timeYear": 5316,
+    "timeYear": 5318,
     "dailyMinutesDown": {
-      "2024-06-07": 34,
+      "2024-06-07": 22,
       "2024-06-06": 78,
       "2024-06-05": 17,
       "2024-06-04": 94,
@@ -157,7 +157,7 @@
       "2024-04-14": 77,
       "2024-04-13": 361,
       "2024-04-12": 22,
-      "2024-04-11": 35
+      "2024-04-11": 59
     }
   },
   {
